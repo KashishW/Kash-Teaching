@@ -1,0 +1,28 @@
+{
+  "restaurants": [
+    {
+      "name": "k",
+      "email": "k",
+      "address": "k",
+      "id": 5
+    },
+    {
+      "name": "ffba",
+      "email": "ffbbbbb",
+      "address": "ffbb",
+      "id": 6
+    },
+    {
+      "name": "sas",
+      "email": "s",
+      "address": "ss",
+      "id": 7
+    },
+    {
+      "name": "sun hotel",
+      "email": "s@s.com",
+      "address": "comitee chowk",
+      "id": 8
+    }
+  ]
+}
